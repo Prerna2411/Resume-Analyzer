@@ -21,10 +21,15 @@ A smart, AI-powered tool that analyzes how well a resume matches a job descripti
 ## 📂 Folder Structure
 
 ├── streamlit_app    # Streamlit app file
+
 ├── model.py
+
 ├── utils.py # Similarity calculation
+
 ├── requirements.txt
+
 ├── .gitignore
+
 ├── README.md
 
 📈 Future Improvements
