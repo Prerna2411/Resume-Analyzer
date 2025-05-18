@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Output files
+*.log
+*.csv
+*.xlsx
+*.json
+
+# Model files
+*.h5
+*.pkl
+*.pt
+
+# Python packages
+*.egg
+dist/
+build/
+
+# IDE
+.idea/
+
+# Token or API secrets
+secrets.json
+token.json
